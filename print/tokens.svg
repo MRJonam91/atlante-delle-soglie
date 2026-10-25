@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 1485 1050" role="img" aria-labelledby="title desc">
+  <title id="title">Pedine e contatori / Tokens and trackers</title>
+  <desc id="desc">Six hero tokens, three sentries, three compasses, Echo, six timer boxes and reusable resource tracks. Original geometric artwork, CC BY-SA 4.0.</desc>
+  <rect width="1485" height="1050" fill="white"/>
+  <g font-family="Arial, sans-serif" fill="#172e3b">
+    <text x="60" y="65" font-size="35" font-weight="bold">ATLANTE DELLE SOGLIE · PEDINE / TOKENS</text>
+    <text x="60" y="108" font-size="23">Ritaglia le pedine; segna i contatori a matita. / Cut out tokens; mark tracks with a pencil.</text>
+  </g>
+  <g fill="#f6f1e5" stroke="#172e3b" stroke-width="3">
+    <circle cx="150" cy="225" r="75"/><circle cx="375" cy="225" r="75"/>
+    <circle cx="600" cy="225" r="75"/><circle cx="825" cy="225" r="75"/>
+    <circle cx="1050" cy="225" r="75"/><circle cx="1275" cy="225" r="75"/>
+    <rect x="75" y="355" width="150" height="115" rx="12"/><rect x="300" y="355" width="150" height="115" rx="12"/>
+    <rect x="525" y="355" width="150" height="115" rx="12"/>
+    <path d="M825 340L900 412L825 485L750 412Z M1050 340L1125 412L1050 485L975 412Z M1275 340L1350 412L1275 485L1200 412Z"/>
+    <rect x="75" y="535" width="150" height="100" rx="20"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#172e3b" text-anchor="middle">
+    <g font-size="29" font-weight="bold">
+      <text x="150" y="235">NILO</text><text x="375" y="235">MIRA</text><text x="600" y="235">LUMA</text>
+      <text x="825" y="235">TITO</text><text x="1050" y="235">ADA</text><text x="1275" y="235">BRINA</text>
+      <text x="150" y="401">S1</text><text x="375" y="401">S2</text><text x="600" y="401">S3</text>
+      <text x="825" y="410">VOCI</text><text x="1050" y="410">PESO</text><text x="1275" y="410">PASSO</text>
+      <text x="150" y="578">ECO</text>
+    </g>
+    <g font-size="20">
+      <text x="150" y="437">Sentry</text><text x="375" y="437">Sentry</text><text x="600" y="437">Sentry</text>
+      <text x="825" y="438">Voices</text><text x="1050" y="438">Weight</text><text x="1275" y="438">Step</text>
+      <text x="150" y="609">Echo · max 1</text>
+    </g>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#172e3b" font-size="23">
+    <text x="300" y="557">TIMER · una casella a fine round / one box at round end</text>
+    <text x="300" y="646">Esperti: quattro caselle / Experienced: four boxes</text>
+    <text x="75" y="726">ENERGIA / ENERGY</text><text x="665" y="726">FAVILLE / EMBERS</text>
+    <text x="75" y="841">SCINTILLE / SPARKS</text><text x="665" y="841">TENUTA / STABILITY · scrivi / write:</text>
+  </g>
+  <g fill="none" stroke="#172e3b" stroke-width="2">
+    <rect x="300" y="575" width="80" height="50"/><rect x="395" y="575" width="80" height="50"/>
+    <rect x="490" y="575" width="80" height="50"/><rect x="585" y="575" width="80" height="50"/>
+    <rect x="680" y="575" width="80" height="50"/><rect x="775" y="575" width="80" height="50"/>
+    <rect x="75" y="745" width="500" height="55" rx="10"/><rect x="665" y="745" width="500" height="55" rx="10"/>
+    <rect x="75" y="860" width="500" height="55" rx="10"/><rect x="665" y="860" width="500" height="55" rx="10"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#172e3b" font-size="30">
+    <text x="100" y="784">0 · 1 · 2 · 3 · 4 · 5 · 6</text><text x="690" y="784">0 · 1 · 2 · 3</text>
+    <text x="100" y="899">0 · 1 · 2 · 3 · 4 · 5 · 6</text><text x="690" y="899">Iniziale / Initial ___ → ___</text>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#172e3b" font-size="20">
+    <text x="75" y="971">Ogni eroe usa una traccia personale su carta. / Copy personal tracks for each hero.</text>
+    <text x="75" y="1009">MRJonam91 e contributori / contributors · CC BY-SA 4.0 · Vedi / See NOTICE · 0.1.0-playtest</text>
+  </g>
+</svg>

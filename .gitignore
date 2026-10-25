@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.private/
+.env
+.env.*
+!.env.example
+*.log
+dist/
+.checks/

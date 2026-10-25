@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 1485 1050" role="img" aria-labelledby="title desc">
+  <title id="title">La Fiera dei Domani / The Fair of Tomorrows</title>
+  <desc id="desc">Public eight-zone board. Connections: A-B, B-C, B-D, C-E, D-E, E-F1, F1-F2, F1-F3. Original geometric artwork, CC BY-SA 4.0.</desc>
+  <rect width="1485" height="1050" fill="#fbf8ef"/>
+  <rect x="25" y="25" width="1435" height="1000" rx="20" fill="none" stroke="#1e3644" stroke-width="3"/>
+  <g font-family="Georgia, serif" fill="#1e3644">
+    <text x="65" y="85" font-size="40">LA FIERA DEI DOMANI</text>
+    <text x="65" y="123" font-size="24">THE FAIR OF TOMORROWS · 0.1.0-playtest</text>
+  </g>
+  <g fill="none" stroke="#a07838" stroke-width="9" stroke-linejoin="round">
+    <path d="M320 285H380 M640 245L740 180 M640 325L740 410 M1025 180L1110 260 M1025 410L1110 340 M1260 390V560H882V720 M740 800H655 M1025 800H1110"/>
+  </g>
+  <g fill="#fffdf7" stroke="#1e3644" stroke-width="3">
+    <rect x="60" y="210" width="260" height="150" rx="14"/>
+    <rect x="380" y="210" width="260" height="150" rx="14"/>
+    <rect x="740" y="100" width="285" height="160" rx="14"/>
+    <rect x="740" y="330" width="285" height="160" rx="14"/>
+    <rect x="1110" y="210" width="300" height="180" rx="14"/>
+    <rect x="740" y="720" width="285" height="160" rx="14"/>
+    <rect x="370" y="720" width="285" height="160" rx="14"/>
+    <rect x="1110" y="720" width="300" height="160" rx="14"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#1e3644" text-anchor="middle">
+    <g font-size="32" font-weight="bold">
+      <text x="190" y="253">A · MOLO</text><text x="510" y="253">B · PIAZZA</text>
+      <text x="882" y="145">C · STAMPERIA</text><text x="882" y="375">D · PONTE</text>
+      <text x="1260" y="253">E · GIARDINO</text>
+      <text x="882" y="765">F1 · BANCO</text><text x="512" y="765">F2 · BALCONE</text><text x="1260" y="765">F3 · TORRE</text>
+    </g>
+    <g font-size="23">
+      <text x="190" y="288">Arrival dock</text><text x="510" y="288">Project square</text>
+      <text x="882" y="182">Route printshop</text><text x="882" y="412">Pulley bridge</text>
+      <text x="1260" y="290">Departure garden</text>
+      <text x="882" y="802">Counterweight desk</text><text x="512" y="802">Map balcony</text><text x="1260" y="802">Loom tower</text>
+    </g>
+    <g font-size="22" fill="#70501f">
+      <text x="882" y="220">VOCI / VOICES</text><text x="882" y="450">PESO / WEIGHT</text>
+      <text x="1260" y="333">PASSO / STEP</text>
+      <text x="882" y="843">PESO / WEIGHT</text><text x="512" y="843">VOCI / VOICES</text><text x="1260" y="843">PASSO / STEP</text>
+    </g>
+  </g>
+  <g transform="translate(150 565)" stroke="#1e3644" fill="none">
+    <circle r="75" stroke-width="2"/><circle r="58" stroke-width="1"/>
+    <path d="M0 -95V95 M-95 0H95" stroke-width="2"/>
+    <path d="M0 -60L20 0L0 60L-20 0Z" fill="#a07838" stroke-width="2"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#1e3644" font-size="23">
+    <text x="285" y="560">Ogni linea è un passaggio in entrambe le direzioni.</text>
+    <text x="285" y="595">Each line is a passage in both directions.</text>
+    <text x="285" y="642">F2 ↔ F3: passare da F1 / travel through F1.</text>
+    <text x="65" y="939">1 movimento + 1 azione / 1 move + 1 action · Regole / Rules: 0.1.0-playtest</text>
+    <text x="65" y="981" font-size="20">Atlante delle Soglie · MRJonam91 e contributori / contributors · CC BY-SA 4.0 · Vedi / See NOTICE</text>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+# Codice di condotta / Code of conduct
+
+IT: Trattare le persone con rispetto. Sono vietati molestie, discriminazioni, minacce e diffusione di dati personali. Criticare proposte e regole con esempi, senza attaccare autori o giocatori. Non chiedere a partecipanti di rendere pubbliche esperienze personali. I manutentori possono rimuovere contenuti o limitare la partecipazione, spiegando quando possibile il motivo. Per segnalazioni sensibili usare il contatto pubblico del profilo del manutentore o gli strumenti di segnalazione della piattaforma; non pubblicare dettagli identificativi in un'issue.
+
+EN: Treat people respectfully. Harassment, discrimination, threats and disclosure of personal information are prohibited. Critique proposals and rules with examples rather than attacking people. Do not pressure participants to disclose private experiences. Maintainers may remove content or restrict participation and explain why where possible. For sensitive reports, use the maintainer profile's public contact or platform reporting tools; do not place identifying details in an issue.
