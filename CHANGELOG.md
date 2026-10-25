@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased — 2026-10-25
+
+IT: sei identità fiabesche aggiuntive senza nuovi poteri; valutazione esplicita delle proposte Gemini; bozza concreta del formato avventure, con limiti di sicurezza dichiarati; precisazioni su repository private, rinomina, parodia, fan art e ambito degli SRD. Controllo sintattico dei file JSON.
+
+EN: six additional fairy-tale identities without extra powers; explicit Gemini proposal assessment; a concrete draft adventure format with stated security limits; clarification of private repositories, renaming, parody, fan art and SRD scope. JSON syntax checks.
+
 ## 0.1.0-playtest — 2026-10-25
 
 IT:

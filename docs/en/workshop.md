@@ -2,6 +2,8 @@
 
 The Library of Thresholds holds unfinished maps: they mark an entrance, never a mandatory ending. Keepers carry knowledge and memories between independent places. **Fading** describes the loss of possibilities when someone imposes a single story on others. Not every adventure needs this threat.
 
+For additional protagonists under the same rules, use the [original fairy-tale identities](archetypes.md): six names and backgrounds drawn from this atlas's trades, materials and landscapes.
+
 ## Six original worlds
 
 | World | Identity and proposed scene rule | Hook |

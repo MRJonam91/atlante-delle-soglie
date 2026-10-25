@@ -15,7 +15,7 @@ Questa edizione pubblica contiene **ambientazione e personaggi originali**, rego
 ### Cominciare a giocare
 
 1. Leggi le [regole](docs/it/regole.md); il narratore legge anche [La Fiera dei Domani](docs/it/avventura.md).
-2. Scegliete 3–5 dei [sei Custodi](docs/it/personaggi.md).
+2. Scegliete 3–5 dei [sei Custodi](docs/it/personaggi.md), anche con le [nuove identità fiabesche](docs/it/archetipi.md).
 3. Aprite o stampate il [tabellone](print/board.svg) e le [pedine e i contatori](print/tokens.svg). Le mappe non riportano segreti; il testo dell'avventura sì.
 4. Procuratevi almeno un d20 e carta; per l'officina è utile un d6. Monete o bottoni possono sostituire le pedine.
 5. Usate la [scheda di sessione e il questionario](docs/it/playtest.md). La durata indicativa di 90–150 minuti è un obiettivo da verificare.
@@ -24,7 +24,7 @@ Nessun account, acquisto, mazzo commerciale, soundtrack o servizio online è nec
 
 ### Creare e sviluppare
 
-L'[officina e atlante](docs/it/officina.md) contiene sei mondi autonomi e un metodo per creare avventure. La [roadmap](docs/ROADMAP.md) descrive il futuro tavolo digitale: mappe, dadi, segreti del narratore, effetti e salvataggi. **L'applicazione non è ancora implementata.**
+L'[officina e atlante](docs/it/officina.md) contiene sei mondi autonomi e un metodo per creare avventure. La [roadmap](docs/ROADMAP.md) descrive il futuro tavolo digitale: mappe, dadi, segreti del narratore, effetti e salvataggi. Un [contratto dati proposto](design/README.md) documenta la separazione delle informazioni. **L'applicazione non è ancora implementata.** Le [note d'integrazione](docs/REVIEW_INTEGRATION.md) spiegano quali proposte della revisione Gemini sono state accolte o corrette.
 
 ### Licenze e attribuzione
 
@@ -51,14 +51,14 @@ This public edition provides an **original setting and characters**, experimenta
 ### Start playing
 
 1. Read the [rules](docs/en/rules.md); the facilitator also reads [The Fair of Tomorrows](docs/en/adventure.md).
-2. Choose 3–5 of the [six Keepers](docs/en/characters.md).
+2. Choose 3–5 of the [six Keepers](docs/en/characters.md), optionally using the [new fairy-tale identities](docs/en/archetypes.md).
 3. Open or print the [board](print/board.svg) and [tokens and trackers](print/tokens.svg). The maps contain no secrets; the adventure text does.
 4. Bring at least one d20 and paper; a d6 helps with the workshop. Coins or buttons can replace tokens.
 5. Use the [session record and feedback form](docs/en/playtest.md). The proposed 90–150 minute duration still needs testing.
 
 No account, purchase, commercial card deck, soundtrack or online service is required. Both SVGs are designed for landscape A4, printed with fit-to-page enabled.
 
-The [workshop and atlas](docs/en/workshop.md) provides six independent worlds and an adventure-building method. The [roadmap](docs/ROADMAP.md) describes a future digital table with maps, dice, facilitator secrets, effects and saves. **That application has not been implemented.**
+The [workshop and atlas](docs/en/workshop.md) provides six independent worlds and an adventure-building method. The [roadmap](docs/ROADMAP.md) describes a future digital table with maps, dice, facilitator secrets, effects and saves. A [proposed data contract](design/README.md) documents information separation. **That application has not been implemented.** [Integration notes](docs/REVIEW_INTEGRATION.md) record which Gemini review proposals were adopted or corrected.
 
 Original game content and printable artwork use **CC BY-SA 4.0**; tools and automation use **GPL-3.0-or-later**. Copying, adaptation and commercial reuse are allowed subject to the applicable license. See [LICENSING.md](LICENSING.md) and [NOTICE](NOTICE).
 

@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Adventure authoring package — design draft, not a player payload",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "title", "version", "scenes"],
+  "properties": {
+    "id": {"type": "string", "minLength": 1},
+    "title": {"type": "string", "minLength": 1},
+    "version": {"type": "string", "minLength": 1},
+    "scenes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "public_view", "gm_secrets"],
+        "properties": {
+          "id": {"type": "string", "minLength": 1},
+          "public_view": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["title", "description", "zones", "visible_npcs"],
+            "properties": {
+              "title": {"type": "string", "minLength": 1},
+              "description": {"type": "string"},
+              "zones": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": ["id", "name", "connections"],
+                  "properties": {
+                    "id": {"type": "string", "minLength": 1},
+                    "name": {"type": "string", "minLength": 1},
+                    "connections": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}}
+                  }
+                }
+              },
+              "visible_npcs": {"type": "array", "items": {"type": "string"}}
+            }
+          },
+          "gm_secrets": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["hidden_clues", "challenges", "fallbacks"],
+            "properties": {
+              "hidden_clues": {"type": "array", "items": {"type": "string"}},
+              "challenges": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "additionalProperties": false,
+                  "required": ["target_dc", "applicable_qualities", "success_outcome", "failure_cost"],
+                  "properties": {
+                    "target_dc": {"type": "integer", "minimum": 1, "maximum": 30},
+                    "applicable_qualities": {"type": "array", "minItems": 1, "uniqueItems": true, "items": {"enum": ["courage", "cunning", "wonder", "bond"]}},
+                    "success_outcome": {"type": "string"},
+                    "failure_cost": {"type": "string"}
+                  }
+                }
+              },
+              "fallbacks": {"type": "string"}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -2,6 +2,8 @@
 
 La Biblioteca delle Soglie custodisce mappe incomplete: indicano un accesso, mai un finale obbligatorio. I Custodi portano conoscenze e ricordi fra luoghi autonomi. La **Sbiaditura** è il nome dato alla perdita di possibilità quando qualcuno impone un'unica storia agli altri. Non ogni avventura deve usare questa minaccia.
 
+Per altri protagonisti con le stesse regole, usa le [identità fiabesche originali](archetipi.md): sei nomi e biografie che richiamano mestieri, materiali e paesaggi di questo atlante.
+
 ## Sei mondi originali
 
 | Mondo | Identità e regola scenica proposta | Spunto |

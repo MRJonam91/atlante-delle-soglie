@@ -26,6 +26,13 @@ Il sito corporate rimanda a un [portale per i permessi](https://disneypermission
 
 Percorso proposto: validare il gioco originale con persone, registrare i contributi e le licenze, raccogliere prove d'uso e predisporre un dossier originale. Se in futuro esiste un interlocutore autorizzato e interessato, valutare con un professionista diritti, riservatezza e condizioni prima di inviare materiale. Interesse, accordi e vendita rimangono possibilità non dimostrate.
 
+### Precisazioni su alcune strategie spesso proposte
+
+- Una repository privata limita l'accesso: da sola non prova liceità o illiceità e non permette di stimare un rischio «quasi zero». Gli usi, i permessi e le eccezioni applicabili vanno valutati. [WIPO: eccezioni](https://www.wipo.int/en/web/copyright/limitations/index)
+- Rinomina, disclaimer e fan art non concedono automaticamente diritti su elementi protetti ripresi. In particolare, un disegno nuovo non equivale necessariamente a un personaggio autonomo. È una conseguenza progettuale delle regole generali, non una sentenza su ogni fan work. [WIPO: FAQ](https://www.wipo.int/en/web/copyright/faq-copyright)
+- In *Deckmyn*, la CGUE collega la parodia a differenze percepibili e umorismo o scherno, con bilanciamento dei diritti secondo le circostanze. Chiamare «parodia» un omaggio non dimostra che l'eccezione si applichi. [CGUE: comunicato sulla sentenza C-201/13](https://curia.europa.eu/site/upload/docs/application/pdf/2014-09/cp140113en.pdf)
+- La pagina ufficiale Wizards offre SRD **5.1** e **5.2.1** sotto **CC BY 4.0**, distinta dalla CC BY-SA di questo progetto. L'apertura riguarda i contenuti degli SRD, non tutti i manuali, marchi o ambientazioni. Questo progetto non ha importato testi SRD; un'eventuale integrazione richiederà attribuzioni e registrazione delle fonti specifiche. [Wizards: SRD e FAQ](https://www.dndbeyond.com/srd)
+
 ## English
 
 ### Why this edition stands on its own
@@ -49,3 +56,10 @@ Disney states it does not accept unsolicited creative ideas or materials; its St
 The corporate site links a [permissions portal](https://disneypermissions.my.salesforce-sites.com/WelcomeIntakePage). Requesting a license is different from pitching a creative project and is not authorization. Any future approach needs an explicitly accepting channel and written terms covering the intended RPG, territories and media. No materials or permission requests have been sent on the author's behalf.
 
 Proposed route: validate the original game with people, document contribution rights, gather usage evidence and prepare an original dossier. If an authorized interested counterpart becomes available, obtain professional review of rights, confidentiality and terms before submission. Interest, agreements and acquisition remain unproven possibilities.
+
+### Clarifications on frequently suggested strategies
+
+- A private repository limits access; alone it establishes neither legality nor illegality and supports no “near-zero risk” estimate. Uses, permissions and applicable exceptions matter. [WIPO exceptions](https://www.wipo.int/en/web/copyright/limitations/index)
+- Renaming, disclaimers and fan art do not automatically authorize protected elements. A new drawing is not necessarily an independent character. This is a design inference from general rules, not a verdict on every fan work. [WIPO FAQ](https://www.wipo.int/en/web/copyright/faq-copyright)
+- In *Deckmyn*, the CJEU associates parody with noticeable differences and humour or mockery, with rights balanced under the circumstances. Calling a tribute a parody does not establish the exception. [CJEU press release on C-201/13](https://curia.europa.eu/site/upload/docs/application/pdf/2014-09/cp140113en.pdf)
+- Wizards' official page provides SRD **5.1** and **5.2.1** under **CC BY 4.0**, distinct from this project's CC BY-SA. This covers SRD contents, not every book, mark or setting. No SRD text has been imported here; future incorporation needs its specific credits and provenance. [Wizards SRD and FAQ](https://www.dndbeyond.com/srd)

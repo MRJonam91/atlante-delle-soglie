@@ -3,6 +3,7 @@
 """Small offline editorial gate; does not establish legal clearance or balance."""
 
 from pathlib import Path
+import json
 import re
 import sys
 from urllib.parse import unquote, urlsplit
@@ -16,6 +17,8 @@ REQUIRED = (
     "CODE_OF_CONDUCT.md", "SECURITY.md", "SUPPORT.md", "CHANGELOG.md",
     ".github/FUNDING.yml", ".github/workflows/check.yml",
     "docs/RIGHTS_AND_COMMERCIAL.md", "docs/ROADMAP.md", "docs/PLAYTEST_LOG.md",
+    "docs/REVIEW_INTEGRATION.md", "docs/it/archetipi.md", "docs/en/archetypes.md",
+    "design/README.md", "design/adventure-authoring.schema.json",
     "print/board.svg", "print/tokens.svg",
     *(f"docs/it/{name}.md" for name in ("regole", "personaggi", "avventura", "officina", "playtest")),
     *(f"docs/en/{name}.md" for name in ("rules", "characters", "adventure", "workshop", "playtest")),
@@ -71,6 +74,11 @@ def main() -> int:
                     errors.append(f"local link escapes publication: {name}")
                 elif not destination.exists():
                     errors.append(f"broken local link in {name}: {target}")
+        if path.suffix == ".json":
+            try:
+                json.loads(content)
+            except json.JSONDecodeError:
+                errors.append(f"invalid JSON syntax: {name}")
         if path.suffix == ".svg":
             try:
                 if "<!DOCTYPE" in content or "<!ENTITY" in content or "<?xml-stylesheet" in content.lower():
@@ -98,7 +106,7 @@ def main() -> int:
         for error in errors:
             print(f"- {error}")
         return 1
-    print(f"Publication check passed: {len(files)} UTF-8 files; required files, local links, SVGs and editorial patterns checked.")
+    print(f"Publication check passed: {len(files)} UTF-8 files; required files, local links, JSON syntax, SVGs and editorial patterns checked.")
     print("This does not establish legal clearance, human playtesting or game balance.")
     return 0
 
